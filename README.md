@@ -1,5 +1,12 @@
-# Project-Aidisom
-it's an assignment, boys
+# Project-Aidisom v0.03.0
+please don't break this, if you don't know what you're doing, ask
+
+MAKE SURE TO WORK OFF OF A NEW BRANCH IF YOU ARE GOING TO CLONE THE PROJECT
 
 
-please don't add a master to the repo, I'll handle that once we agree on what template will be best to start from (unless we're using a blank one)
+changelog:
+- merged code into 
+- new whitebox scene
+- renamed main scene to meet the new town name
+- scale example
+- initial lighting and atmospherics implemented into whitebox scene
