@@ -1,4 +1,10 @@
-# Project-Aidisom v0.05
-please don't break this, if you don't know what you're doing, ask
+# Project-Aidisom rc0.6
 
-MAKE SURE TO WORK OFF OF A NEW BRANCH IF YOU ARE GOING TO CLONE THE PROJECT
+changelog rc0.6:
+- implemented review version of quiet flatlands
+- implemented new assets
+- implemented world lighting
+- fixed a bug with indirect shadows
+- fixed a bug with foliage being lit where it didn't need to be
+- began first pass of level outskirts
+- optimised the overall game scene with an average increase of 15fps
