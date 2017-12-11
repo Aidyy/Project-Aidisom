@@ -1,6 +1,6 @@
-# Project-Aidisom rc0.6
+# Project-Aidisom rc0.6dev
 
-changelog rc0.6:
+changelog rc0.6dev:
 - implemented review version of quiet flatlands
 - implemented new assets
 - implemented world lighting
